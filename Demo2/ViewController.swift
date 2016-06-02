@@ -6,6 +6,8 @@
 //  Copyright © 2016 ROAR Smart. All rights reserved.
 //
 
+// This is a comment
+
 import UIKit
 
 class ViewController: UIViewController {
