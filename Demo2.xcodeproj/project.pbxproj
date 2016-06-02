@@ -14,6 +14,7 @@
 		402005321CFFCFFA00D467F2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 402005301CFFCFFA00D467F2 /* LaunchScreen.storyboard */; };
 		4020053D1CFFCFFA00D467F2 /* Demo2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4020053C1CFFCFFA00D467F2 /* Demo2Tests.swift */; };
 		402005481CFFCFFA00D467F2 /* Demo2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 402005471CFFCFFA00D467F2 /* Demo2UITests.swift */; };
+		402005561CFFD1A100D467F2 /* File1Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 402005551CFFD1A100D467F2 /* File1Test.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		402005431CFFCFFA00D467F2 /* Demo2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Demo2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		402005471CFFCFFA00D467F2 /* Demo2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Demo2UITests.swift; sourceTree = "<group>"; };
 		402005491CFFCFFA00D467F2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		402005551CFFD1A100D467F2 /* File1Test.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = File1Test.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				402005271CFFCFF900D467F2 /* AppDelegate.swift */,
 				402005291CFFCFF900D467F2 /* ViewController.swift */,
+				402005551CFFD1A100D467F2 /* File1Test.swift */,
 				4020052B1CFFCFF900D467F2 /* Main.storyboard */,
 				4020052E1CFFCFFA00D467F2 /* Assets.xcassets */,
 				402005301CFFCFFA00D467F2 /* LaunchScreen.storyboard */,
@@ -256,6 +259,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				402005561CFFD1A100D467F2 /* File1Test.swift in Sources */,
 				4020052A1CFFCFF900D467F2 /* ViewController.swift in Sources */,
 				402005281CFFCFF900D467F2 /* AppDelegate.swift in Sources */,
 			);
